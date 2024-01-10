@@ -7,7 +7,7 @@ Hi! I have just finished my degree in information systems design, I have been pa
 ## 🛠 Skills
 - Web development technologies that I used
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,vue,react,angular,nodejs,php,symfony,postman,prisma,jest,threejs,vite,vercel,express,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
 
 - Different databases with which I have already worked  
